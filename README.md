@@ -34,8 +34,9 @@ $ python bot.py
 - eg: `https://irruo.serveo.net/bot`
 ![](./images/twilio.png)
 
-1. send whatsapp from your phone to your twilio number
+4. send whatsapp from your phone to your twilio number
    
-2. get reply
+5. get reply
 
-share with all of your friends
+
+share with all of your friends 🖥️💡🧠🤖
