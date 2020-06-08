@@ -1,5 +1,5 @@
 twilio
 flask
-ibm-watson
-ibm-cloud-sdk-core
+ibm-watson==4.5.0
+ibm-cloud-sdk-core==1.5.1
 requests
